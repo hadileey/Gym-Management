@@ -17,7 +17,7 @@
   <h4>
     <a href="#-features">View Features</a>
     <span> · </span>
-    <a href="#-installation-&-usage">How to Run</a>
+    <a href="#-installation--usage">How to Run</a>
     <span> · </span>
     <a href="#-oop-concepts-applied">OOP Concepts</a>
   </h4>
