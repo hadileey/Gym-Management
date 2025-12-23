@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://img.icons8.com/windows/32/gum-.png" alt="Gym Logo" width="80" />
+  <img src="https://img.icons8.com/windows/200/gum-.png" alt="Gym Logo" width="80" />
 
   # 🏋️ Gym Membership Management System
   
