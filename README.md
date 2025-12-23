@@ -58,26 +58,8 @@ This project is a practical implementation of the four pillars of OOP:
 
 ---
 
-## 📂 Project Structure
+## 🧑🏻‍💻 Sample Output
 
-```bash
-GymManagementSystem/
-├── 📂 include/           # Header files (.h)
-│   ├── GymManager.h
-│   ├── Member.h
-│   ├── PremiumMember.h
-│   ├── RegularMember.h
-│   └── StudentMember.h
-├── 📂 src/               # Source files (.cpp)
-│   ├── GymManager.cpp
-│   ├── Member.cpp
-│   ├── main.cpp
-│   └── ...
-├── 📂 data/              # Database
-│   └── members.txt       # Auto-generated file
-└── README.md
-
-```
 <div align="center">
   <table>
     <tr>
@@ -100,3 +82,23 @@ GymManagementSystem/
   </table>
   <sub>👆 Click on any image to maximize</sub>
 </div>
+
+## 📂 Project Structure
+
+```bash
+GymManagementSystem/
+├── 📂 include/           # Header files (.h)
+│   ├── GymManager.h
+│   ├── Member.h
+│   ├── PremiumMember.h
+│   ├── RegularMember.h
+│   └── StudentMember.h
+├── 📂 src/               # Source files (.cpp)
+│   ├── GymManager.cpp
+│   ├── Member.cpp
+│   ├── main.cpp
+│   └── ...
+├── 📂 data/              # Database
+│   └── members.txt       # Auto-generated file
+└── README.md
+
