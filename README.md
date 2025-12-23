@@ -17,7 +17,7 @@
   <h4>
     <a href="#-features">View Features</a>
     <span> · </span>
-    <a href="#-installation">How to Run</a>
+    <a href="#-installation-&-usage">How to Run</a>
     <span> · </span>
     <a href="#-oop-concepts-applied">OOP Concepts</a>
   </h4>
@@ -58,6 +58,38 @@ This project is a practical implementation of the four pillars of OOP:
 
 ---
 
+## 🛠️ Installation & Usage
+
+### 📋 Prerequisites
+*   A C++ Compiler (GCC, MinGW, or Clang).
+*   Git (optional, for cloning).
+
+### ⚙️ Steps to Compile & Run
+
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/hadileey/Gym-Management.git
+    cd Gym-Management
+    ```
+
+2.  **Compile the Code**
+    *This command links the headers in the `include` folder with the logic in `src`.*
+    ```bash
+    g++ -Iinclude src/*.cpp -o gym_system
+    ```
+
+3.  **Run the Application**
+    *   **Windows:**
+        ```bash
+        .\gym_system.exe
+        ```
+    *   **Linux / Mac:**
+        ```bash
+        ./gym_system
+        ```
+
+---
+
 ## 🧑🏻‍💻 Sample Output
 
 <div align="center">
@@ -65,23 +97,22 @@ This project is a practical implementation of the four pillars of OOP:
     <tr>
       <!-- IMAGE 1 -->
       <td width="50%" align="center">
-        <h3>🏠 Main Menu</h3>
-        <a href="screenshot/1.png" target="_blank">
-          <img src="screenshot/1.png" width="100%" alt="Main Menu Screen" />
+        <a href="screenshots/1.png" target="_blank">
+          <img src="screenshots/1.png" width="100%" alt="Main Menu Screen" />
         </a>
       </td>
-      
       <!-- IMAGE 2 -->
       <td width="50%" align="center">
-        <h3>💰 Fee Calculation</h3>
-        <a href="screenshot/2.png" target="_blank">
-          <img src="screenshot/2.png" width="100%" alt="Fee Calculation Screen" />
+        <a href="screenshots/2.png" target="_blank">
+          <img src="screenshots/2.png" width="100%" alt="Fee Calculation Screen" />
         </a>
       </td>
     </tr>
   </table>
   <sub>👆 Click on any image to maximize</sub>
 </div>
+
+---
 
 ## 📂 Project Structure
 
@@ -101,4 +132,18 @@ GymManagementSystem/
 ├── 📂 data/              # Database
 │   └── members.txt       # Auto-generated file
 └── README.md
+```
+---
 
+## 🧑🏻‍💻 Author
+**Hadil K K**
+*Computer Science & Engineering Student*
+***KIT - BE CSE B***
+<p align="left">
+<a href="https://github.com/hadileey">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub" />
+</a>
+</p>
+<div align="center">
+<sub>Built with ❤️ using C++ and OOP Principles.</sub>
+</div>
