@@ -76,3 +76,27 @@ GymManagementSystem/
 ├── 📂 data/              # Database
 │   └── members.txt       # Auto-generated file
 └── README.md
+
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- IMAGE 1 -->
+      <td width="50%" align="center">
+        <h3>🏠 Main Menu</h3>
+        <a href="assets/output1.png" target="_blank">
+          <img src="screenshot/1.png" width="100%" alt="Main Menu Screen" />
+        </a>
+      </td>
+      
+      <!-- IMAGE 2 -->
+      <td width="50%" align="center">
+        <h3>💰 Fee Calculation</h3>
+        <a href="assets/output2.png" target="_blank">
+          <img src="ascreenshot/2.png" width="100%" alt="Fee Calculation Screen" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <sub>👆 Click on any image to maximize</sub>
+</div>
